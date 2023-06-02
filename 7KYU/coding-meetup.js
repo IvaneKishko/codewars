@@ -4,3 +4,5 @@ function countDevelopers(list) {
     // your awesome code here :)
     return list.filter(e => e.continent === 'Europe' && e.language === 'JavaScript').length
   }
+
+  // 
