@@ -13,4 +13,4 @@
 var number = function(busStops){
     return busStops.reduce((sum, [x,y]) => sum + x-y, 0)
   }    
-  // 
+  // finished
