@@ -12,3 +12,4 @@ function getMiddle(s){
   let arr = s.split('');
   return arr.length % 2 == 0 ? arr[arr.length/2-1] + arr[arr.length/2] : arr[Math.floor(arr.length/2)]
 }
+//finished
