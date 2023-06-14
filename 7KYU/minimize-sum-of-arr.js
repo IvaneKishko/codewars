@@ -8,3 +8,5 @@ function minSum(arr) {
     while(arr.length)s+=arr.pop()*arr.shift()
     return s
   }
+
+  // finished
